@@ -24,18 +24,17 @@ Follow along on my journey to become a Full Stack Web Developer.
 - Book Catalog Page
 - Recipe Project
 - Cat Photo App
+- Cafe menu 
 
 ### Connect With Me
 - [GitHub](https://github.com/123abhi.com)
-
----
+-[linkedin](https://www.linkedin.com/in/abhi-srivastava-13ba01373?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+-[X](https://x.com/srivastava31571) 
 
 ⭐ Thanks for visiting my profile!
 
 <!--
-**123abhi-dev/123abhi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+**123abhi-dev/123abhi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this fithisappears on your GitHub profileprofile are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
